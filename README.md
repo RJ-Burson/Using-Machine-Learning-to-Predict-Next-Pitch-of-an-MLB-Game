@@ -1,1 +1,1 @@
-This repository contains all of the data and code that I used for my Thesis "Using Machine Learning Methods to Predict the Next Pitch of an MLB Game"
+This repository contains all of the data and code that I used for my Thesis "Using Machine Learning Methods to Predict the Next Pitch of an MLB Game." Including all of the code used to scrape Baseball Savant for the pitch-by-pitch data for the entire 2021 and 2022 seasons,  
