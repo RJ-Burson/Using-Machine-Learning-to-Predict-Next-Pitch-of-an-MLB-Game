@@ -61,7 +61,7 @@ Feature Cleaning & Engineering:
 -	Previous pitch name: The name of the previous pitch
 -	Previous pitch location: The location of the previous pitch
 -	Previous pitch result: categorized all results into 1 of 5 categories: 
- -0=first pitch of an AB, 1=ball=, 2=foul, 3=called strike, 4 = swinging strike
+  0=first pitch of an AB, 1=ball=, 2=foul, 3=called strike, 4 = swinging strike
  	
 Pitcher-Specific Model
 
